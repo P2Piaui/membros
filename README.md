@@ -1,5 +1,5 @@
 
-  
+
 
 # Membros
 
@@ -17,6 +17,12 @@ Dados profissionais dos membros:
 [![linkedin icon](https://raw.githubusercontent.com/P2Piaui/membros/master/icons/linkedin20x.png) linkedin.com/in/alvarengadaniel](https://www.linkedin.com/in/alvarengadaniel/)
 
 [![linkedin icon](https://raw.githubusercontent.com/P2Piaui/membros/master/icons/twitter20x.png) @alvarengadaniel](https://twitter.com/alvarengadaniel)
+
+**Mário Marroquim**
+
+[![linkedin icon](https://raw.githubusercontent.com/P2Piaui/membros/master/icons/linkedin20x.png) linkedin.com/in/mariomarroquim](https://www.linkedin.com/in/mariomarroquim/)
+
+[![linkedin icon](https://raw.githubusercontent.com/P2Piaui/membros/master/icons/twitter20x.png) @mariomarroquim](https://twitter.com/mariomarroquim)
 
 ## Ícones
 

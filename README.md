@@ -1,6 +1,3 @@
-
-
-
 # Membros
 
 Dados profissionais dos membros:
